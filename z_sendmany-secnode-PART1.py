@@ -65,7 +65,7 @@ print ARG1
 inputs = len(utxos) #Number of input addresses to which funds will be sent
 TX_FEE = TX_FEE_BASE * inputs #Actual TX_FEE will account for multiple inputs
 
-# This is the command that calls z_sendmany will appropriate parameters
+# This is the command that calls z_sendmany with appropriate parameters
 command = ZENCLI_PATH + " z_sendmany " + '"' + FROM_ADDRESS + '"' + " " + ARG1 + \
     " " + str(NUM_CONFIRMS) + " " + str(TX_FEE)
 print command
