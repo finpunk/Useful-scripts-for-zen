@@ -6,3 +6,5 @@ Please feel free to drop your own useful scripts into this repo. I'll be adding 
 
 *z_sendmany with multiple inputs (useful for funding secure nodes in bulk)
 
+*ZenCash secure node multisig funding scripts (PART1 and PART2)
+
