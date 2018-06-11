@@ -23,7 +23,7 @@ FILE_NAME_UTXOS = "utxos"
 FILE_NAME_ADDRESSES = "addresses"
 NUM_CONFIRMS = 1
 TX_FEE_BASE = 0.0001
-MULTISIG_BUFFER = 0.001 #Amount to pad each utxo to increase probability of matching
+MULTISIG_BUFFER = 0 #Amount to pad each utxo to increase probability of matching
 #FROM_ADDRESS = ""
 TO_MULTISIG = "zsf45QuD75XJdm3uLftiW6pucvbhvrbhAhZ" #ZenCash sec node multisig
 
