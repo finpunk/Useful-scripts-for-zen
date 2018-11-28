@@ -21,7 +21,7 @@ FILE_NAME = "payroll"
 NUM_CONFIRMS = 1
 TX_FEE_BASE = 0.0001
 
-FROM_ADDRESS = "zngBRTnCFzT3dTizixP6cCUwKBGUAjzmN9a" #secure nodes
+FROM_ADDRESS = " " #add address from which funds will be dispursed 
 
 payroll = []
 # Creating list of tuples for payroll data (name, address, amount)
