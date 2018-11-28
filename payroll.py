@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 '''
-This program facilitates payroll by batch sending zen from input file.   
+This program facilitates payroll by batch sending zen from .csv input file that contains three columns: name, payment address, and amount.   
 
 '''
 
